@@ -1,0 +1,19 @@
+.red{
+  background-color: red;
+  color: white;
+}
+#head{
+  background-color: red;
+}
+.one{
+  background-color: maroon;
+}
+.bgimage{
+  width: 400px;
+  height: 4000px;
+  background-color: red;
+  background-image: url('images/Screenshot\ \(1\).png');
+  background-size: 300px 300px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
